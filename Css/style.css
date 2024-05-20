@@ -1,0 +1,10 @@
+html, body 
+{ 
+ scrollbar-width: none;
+}
+
+@media screen and (max-width: 1024px) { 
+    #container{
+        display: table-column;
+    }
+}
