@@ -1,7 +1,10 @@
 html, body 
 { 
  scrollbar-width: none;
+ scroll-behavior: smooth;
 }
+
+
 
 @media screen and (max-width: 1024px) { 
     #container{
